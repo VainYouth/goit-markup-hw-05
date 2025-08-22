@@ -217,6 +217,7 @@ h1, h2, h3, h4, h5, h6, p {
     gap: 24px;
 }
 
+
 .subscribe-input {
     width: 264px;
     height: 40px;
@@ -231,7 +232,7 @@ h1, h2, h3, h4, h5, h6, p {
     color: #ffffff;
 }
 
-.subscribe-input:placeholder {
+.subscribe-input::placeholder {
     color: #ffffff;
 }
 
@@ -263,6 +264,7 @@ h1, h2, h3, h4, h5, h6, p {
     width: 24px;
     height: 24px;
     margin-left: 16px;
+    fill: #fff;
 }
 
 
